@@ -6,6 +6,8 @@
     <title>trang chủ</title>
 </head>
 <body>
-    
+    <header></header>
+    <nav></nav>
+    <footer></footer>
 </body>
 </html>
