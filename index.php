@@ -6,8 +6,11 @@
     <title>trang chủ</title>
 </head>
 <body>
-    <header></header>
-    <nav></nav>
+    <header>
+    </header>
+    <nav>
+        chỉnh trong nav 
+    </nav>
     <footer></footer>
 </body>
 </html>
