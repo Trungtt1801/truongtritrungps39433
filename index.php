@@ -7,7 +7,15 @@
 </head>
 <body>
     <header></header>
-    <nav></nav>
+    <nav>
+        <ul>
+            <li>Xuân Hương</li>
+            <li>Duy Phương</li>
+            <li>Quang Thắng</li>
+            <li>Trọng Vinh</li>
+            <li>Trí Trung</li>
+        </ul>
+    </nav>
     <footer></footer>
 </body>
 </html>
