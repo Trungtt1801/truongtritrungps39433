@@ -6,11 +6,18 @@
     <title>trang chủ</title>
 </head>
 <body>
-    <header>
-    </header>
+    <header></header>
     <nav>
-        chỉnh trong nav 
+    chỉnh trong nav
+        <ul>
+            <li>Xuân Hương</li>
+            <li>Duy Phương</li>
+            <li>Quang Thắng</li>
+            <li>Trọng Vinh</li>
+            <li>Trí Trung</li>
+        </ul>
     </nav>
+   
     <footer></footer>
 </body>
 </html>
